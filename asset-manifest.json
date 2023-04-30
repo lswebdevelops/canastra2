@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/canastra2/static/css/main.eeb18ec6.css",
+    "main.js": "/canastra2/static/js/main.214767bf.js",
+    "index.html": "/canastra2/index.html",
+    "main.eeb18ec6.css.map": "/canastra2/static/css/main.eeb18ec6.css.map",
+    "main.214767bf.js.map": "/canastra2/static/js/main.214767bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb18ec6.css",
+    "static/js/main.214767bf.js"
+  ]
+}
