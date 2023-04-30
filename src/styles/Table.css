@@ -1,0 +1,65 @@
+.table-container {
+  text-align: center;
+  margin-top: 5px;
+  background-color: white;   
+}
+table {
+  display: inline-block;
+  text-align: left;
+}
+
+
+.button {
+    background-image: linear-gradient(to bottom, #5c5c5c, #393939);
+    color: #fff;
+    padding: 10px 20px;
+    border: 2px solid #393939;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-image: linear-gradient(to bottom, #393939, #1c1c1c);
+  }
+  .button:hover {
+    background-image: linear-gradient(to bottom, #393939, #1c1c1c);
+    border-color: #1c1c1c;
+  }
+  
+  td,tr,th{
+    border: solid rgb(145, 142, 142) 2px;
+  }
+  input{
+    border:none;
+    text-align: right;
+    width: 140px;
+  }
+  .total-user1, .total-user2{
+    font-size: large;
+    font-weight: 700;
+    text-align: right;
+    padding-right: 16px;  
+  }
+
+
+  
+  .indexTD{
+    text-align: center;
+    font-weight: 600;
+
+  }
+
+  .buttonRestartPoints, .button3Players{
+    
+    color: black;
+    margin-right: 4px;
+    height: 50px;
+    width: auto;
+    font-size: 22px;
+    font-weight: 500;   
+    margin-top: 12px;  
+
+
+
+}

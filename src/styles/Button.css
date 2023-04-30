@@ -1,0 +1,25 @@
+
+.redButton{
+    color: red;
+    border: none;
+    background-color: white;
+    width: 20%;
+    height: auto;
+    font-size: 4rem;
+  
+  }
+  .blackButton{
+    color: black;
+    border: none;
+    background-color: white;
+    width: 20%;
+    height: auto;
+    font-size: 4rem;
+  
+  }
+
+ .buttonSuits{
+  
+  width: 350px;
+ 
+}
